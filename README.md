@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas Ward
 - I'm an undergraduate currently studying Computer Science and Engineering at the University of California, Irvine.
-- I'm interested in work involving the integration of hardware components with software as well as writing programs to further my personal interests. 
+- I'm interested in embedded software/firmware development as it pertains to various applications.
 - 📫 Reach out to me at:
 - EMAIL: nnward2004@icloud.com or nnward@uci.edu
